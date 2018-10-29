@@ -1,0 +1,8 @@
+# Set your network settings here.
+# Also, w_home.lua, put your esp ip:
+# <input ... value=192.168.1.2 ...>
+n_ip="192.168.1.100"
+n_nm="255.255.255.0"
+n_gw="192.168.1.1"
+n_ssid="SSID of your router"
+n_sspw="PW of your router"
